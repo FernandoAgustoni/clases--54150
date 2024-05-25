@@ -1,0 +1,7 @@
+setup.py
+Trabajo2/main.py
+Trabajo2/modulo.py
+Trabajo_2.egg-info/PKG-INFO
+Trabajo_2.egg-info/SOURCES.txt
+Trabajo_2.egg-info/dependency_links.txt
+Trabajo_2.egg-info/top_level.txt

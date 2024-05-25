@@ -1,0 +1,5 @@
+print (type(2j))
+print (22)
+print (2+2)
+print (type ("pepit"))
+print ("pepito {2+5} come\t mucho")
